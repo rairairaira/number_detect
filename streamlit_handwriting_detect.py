@@ -41,6 +41,7 @@ with col1:
 
 with predictor:
     st.header('Write your number in the left box')
+    st.text('Press the trash button to  reset')
 
 # Process handwriting
 if canvas.image_data is not None:

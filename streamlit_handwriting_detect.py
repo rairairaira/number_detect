@@ -20,7 +20,7 @@ model = load()
 
 with header:
     st.title('Hand writing recognizer')
-    st.text('By rairairaira')
+    st.text('By Brian Han')
 
 CANVAS_SIZE = 192
 
